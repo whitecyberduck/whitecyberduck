@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @whitecyberduck
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning hacking
+- 👀 I’m interested in infomation security
 - 📫 How to reach me on Twitter @whitecyberduck
 
 <!---
